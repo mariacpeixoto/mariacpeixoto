@@ -1,8 +1,37 @@
-- 👋 Hi, I’m Maria Eduarda!
-- 👀 I’m interested in learning more about programming.
-- 🌱 I’m currently learning Java, javascript, HTML, CSS e PHP.
+## Hello, Welcome! I'm Maria Eduarda!!
 
-<!---
-mariacpeixoto/mariacpeixoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:computer: I'm a FullStack Developer in training.
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+<br>
+
+<div>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPeixoto&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true">
+</div>
+
+
+### Meus conhecimentos:
+<div>
+  <img src="https://image.flaticon.com/icons/png/512/888/888859.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.flaticon.com/icons/png/512/888/888847.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.flaticon.com/icons/png/512/919/919828.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.flaticon.com/icons/png/512/919/919830.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+</div>
+
+### Entre em contato:
+<div>
+  <a href="https://www.linkedin.com/in/mariacpeixoto/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://image.flaticon.com/icons/png/512/145/145807.png" align="center" width="35" heigth="35">
+  </a>
+  <a href="mailto:mariacpeixoto18@gmail.com" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://image.flaticon.com/icons/png/512/732/732200.png" align="center" width="35" heigth="35">
+  </a>
+  <a href="https://www.instagram.com/dudac.peixoto/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" align="center" width="35" heigth="35">
+  </a>
+</div>
