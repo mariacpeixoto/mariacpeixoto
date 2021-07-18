@@ -6,11 +6,9 @@
 
 :books: I’m currently learning everything.
 
-<br>
-
   ## Languages and Tools:
 [![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=pt-br&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacpeixoto&layout=compact&theme=react&locale=pt-br&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacpeixoto&layout=compact&langs_count=16&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
 
 ### Meus conhecimentos:
 <div>
