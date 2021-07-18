@@ -8,10 +8,9 @@
 
 <br>
 
-<div>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPeixoto&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true">
-</div>
-
+  ## Languages and Tools:
+[![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=pt-br&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacpeixoto&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
 
 ### Meus conhecimentos:
 <div>
@@ -20,7 +19,7 @@
   <img src="https://image.flaticon.com/icons/png/512/919/919828.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/919/919830.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Entre em contato:
