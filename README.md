@@ -1,4 +1,4 @@
-## Hello, Welcome! I'm Maria Eduarda!!
+<h1 align="center">Hello, Welcome! I'm Maria Eduarda!!</h1>
 
 :computer: I'm a FullStack Developer in training.
 
@@ -18,6 +18,8 @@
   <img src="https://image.flaticon.com/icons/png/512/919/919830.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.pngaaa.com/668/4547668-middle.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.pngaaa.com/930/2507930-middle.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Contact me:
