@@ -18,8 +18,8 @@
   <img src="https://image.flaticon.com/icons/png/512/919/919830.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://image.pngaaa.com/668/4547668-middle.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://image.pngaaa.com/930/2507930-middle.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Contact me:
