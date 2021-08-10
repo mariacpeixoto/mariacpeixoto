@@ -4,7 +4,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning a bit of everything about Systems Programs.
+:books: I’m currently learning a bit of everything about Systems Development.
 
   ## Languages and Tools:
 [![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
