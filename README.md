@@ -17,7 +17,7 @@
   <img src="https://image.flaticon.com/icons/png/512/919/919828.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/919/919830.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://www.pngegg.com/en/png-wgymv" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="http://dicasdejava.com.br/images/logo-java.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
 </div>
