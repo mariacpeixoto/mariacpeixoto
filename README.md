@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Welcome! I'm Maria Eduarda!!</h1>
 
-:computer: I'm a System Developer Student.
+:computer: I'm a Systems Developer Student.
 
 :house_with_garden: I’m from Brazil.
 
