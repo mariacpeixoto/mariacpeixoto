@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Welcome! I'm Maria Eduarda!!</h1>
 
-:computer: I'm a FullStack Developer in training.
+:computer: I'm a System Developer in training.
 
 :house_with_garden: I’m from Brazil.
 
