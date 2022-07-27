@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Welcome! I'm Maria Eduarda!!</h1>
+<h1 align="center">Hello, Welcome! I'm Maria Peixoto!!</h1>
 
 :computer: I'm a Systems Developer Student.
 
