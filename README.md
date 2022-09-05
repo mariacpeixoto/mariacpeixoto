@@ -23,10 +23,10 @@
 
 ### Contact me:
 <div>
-  <a href="https://www.linkedin.com/in/mariacpeixoto/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" align="center" width="35" heigth="35">
+  <a href="https://www.linkedin.com/in/mariacpeixoto/" target="_blank">
+    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" align="center" width="35" heigth="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
-  <a href="mailto:mariacpeixoto18@gmail.com" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://marcas-logos.net/wp-content/uploads/2020/01/Gmail-Logo-1.png" align="center" width="35" heigth="35">
+  <a href="mailto:mariacpeixoto18@gmail.com" target="_blank">
+    <img src="https://marcas-logos.net/wp-content/uploads/2020/01/Gmail-Logo-1.png" align="center" width="35" heigth="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </div>
