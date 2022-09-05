@@ -14,11 +14,11 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow-thumbnail.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/php/logo-php-1024.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="http://dicasdejava.com.br/images/logo-java.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://assets.stickpng.com/thumbs/58481057cef1014c0b5e4951.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://logodix.com/logo/840687.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Contact me:
