@@ -25,9 +25,9 @@
 ### Contact me:
 <div>
   <a href="https://www.linkedin.com/in/mariacpeixoto/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://image.flaticon.com/icons/png/512/145/145807.png" align="center" width="35" heigth="35">
+    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" align="center" width="35" heigth="35">
   </a>
   <a href="mailto:mariacpeixoto18@gmail.com" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://image.flaticon.com/icons/png/512/732/732200.png" align="center" width="35" heigth="35">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" align="center" width="35" heigth="35">
   </a>
 </div>
