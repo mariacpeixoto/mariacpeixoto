@@ -19,7 +19,10 @@
   <img src="http://dicasdejava.com.br/images/logo-java.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logodix.com/logo/840687.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.freepik.com/icones-gratis/dactilografado_318-698173.jpg" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Contact me:
