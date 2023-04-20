@@ -19,6 +19,7 @@
   <img src="http://dicasdejava.com.br/images/logo-java.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logodix.com/logo/840687.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Contact me:
