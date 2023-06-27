@@ -7,7 +7,7 @@
 Atualmento trabalho na área e realizo muitos projetos nas linguagens especificadas abaixo, e alguns projetinhos que eu fiz por fora estão bem aqui! Sinta-se à vontade para explorar, espero que goste!
 </p>
 
-### My Knowledge:
+### Meus Conhecimentos:
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
@@ -25,16 +25,16 @@ Atualmento trabalho na área e realizo muitos projetos nas linguagens especifica
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>&nbsp;&nbsp;&nbsp;
 </div>
 
-## Languages and Tools:
+## Languagens e Ferramentas:
 [![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariacpeixoto&layout=compact&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
 
-<h2>🧑 Visitantes </h2>
+<h2>Visitantes:</h2>
  
- <img src="https://profile-counter.glitch.me/catmiih/count.svg" />
+ <img src="https://profile-counter.glitch.me/mariacpeixoto/count.svg" />
 <hr>
 
-### Contact me:
+### Redes para contato:
 
 <p align="left">
  <a href="https://github.com/mariacpeixoto" target="_blank" alt="Github">
