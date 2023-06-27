@@ -2,7 +2,7 @@
 
 <hr>
   Olá! Eu sou a Maria Eduarda, tenho 18 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas na Fatec Zona Leste.<br>
-  Possuo curso técnico em Desenvolvimento de Sistemas pela Etec Zona Leste e outros vários cursos com certificados na área de tecnologia.<br>
+  Possuo curso técnico em Desenvolvimento de Sistemas pela Etec Zona Leste e vários outros cursos com certificados na área de tecnologia.<br>
   Amo programar e dou sempre o máximo de mim para entregar o melhor trabalho possível.
   <br>
   Me defino como uma pessoa criativa, organizada e responsável, que sempre está em busca de desafios e aprimorando os conhecimentos que já possuo.<br/><br/>
