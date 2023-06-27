@@ -9,6 +9,13 @@
 Atualmento trabalho na área e realizo muitos projetos nas linguagens especificadas abaixo, e alguns projetinhos que eu fiz por fora estão bem aqui! Sinta-se à vontade para explorar, espero que goste!
 </p>
 
+## Languagens e Ferramentas:
+<div>
+<a href="https://github.com/mariacpeixoto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacpeixoto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacpeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ### Meus Conhecimentos:
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
@@ -25,13 +32,6 @@ Atualmento trabalho na área e realizo muitos projetos nas linguagens especifica
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>&nbsp;&nbsp;&nbsp;
-</div>
-
-## Languagens e Ferramentas:
-<div>
-<a href="https://github.com/mariacpeixoto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacpeixoto&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacpeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <h2>Visitantes:</h2>
