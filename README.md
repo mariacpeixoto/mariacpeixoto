@@ -16,7 +16,7 @@ Atualmento trabalho na área e realizo muitos projetos nas linguagens especifica
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logodix.com/logo/840687.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img width="35" heigth="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://img.freepik.com/icones-gratis/dactilografado_318-698173.jpg" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
