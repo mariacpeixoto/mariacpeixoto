@@ -17,7 +17,7 @@ Atualmento trabalho na área e realizo muitos projetos nas linguagens especifica
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/php/logo-php-1024.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="http://dicasdejava.com.br/images/logo-java.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logodix.com/logo/840687.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
