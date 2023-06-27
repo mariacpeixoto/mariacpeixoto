@@ -1,8 +1,10 @@
 <h3>Desenvolvedora FullStack</h3>
 
 <hr>
-  Olá! Eu sou a Maria Eduarda, tenho 18 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas na Fatec Zona Leste. Possuo curso técnico em Desenvolvimento de Sistemas pela Etec Zona Leste e outros vários cursos com certificados na área de tecnologia.<br>
+  Olá! Eu sou a Maria Eduarda, tenho 18 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas na Fatec Zona Leste.<br>
+  Possuo curso técnico em Desenvolvimento de Sistemas pela Etec Zona Leste e outros vários cursos com certificados na área de tecnologia.<br>
   Amo programar e dou sempre o máximo de mim para entregar o melhor trabalho possível.
+  <br>
   Me defino como uma pessoa criativa, organizada e responsável, que sempre está em busca de desafios e aprimorando os conhecimentos que já possuo.<br/><br/>
 Atualmento trabalho na área e realizo muitos projetos nas linguagens especificadas abaixo, e alguns projetinhos que eu fiz por fora estão bem aqui! Sinta-se à vontade para explorar, espero que goste!
 </p>
@@ -26,8 +28,11 @@ Atualmento trabalho na área e realizo muitos projetos nas linguagens especifica
 </div>
 
 ## Languagens e Ferramentas:
-[![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariacpeixoto&layout=compact&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
+<div>
+<a href="https://github.com/mariacpeixoto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacpeixoto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacpeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <h2>Visitantes:</h2>
  
