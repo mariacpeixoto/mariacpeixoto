@@ -7,10 +7,6 @@
 Atualmento trabalho na área e realizo muitos projetos nas linguagens especificadas abaixo, e alguns projetinhos que eu fiz por fora estão bem aqui! Sinta-se à vontade para explorar, espero que goste!
 </p>
 
-  ## Languages and Tools:
-[![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariacpeixoto&layout=compact&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
-
 ### My Knowledge:
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
@@ -26,7 +22,12 @@ Atualmento trabalho na área e realizo muitos projetos nas linguagens especifica
   <img src="https://img.freepik.com/icones-gratis/dactilografado_318-698173.jpg" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/>&nbsp;&nbsp;&nbsp;
+  <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>&nbsp;&nbsp;&nbsp;
 </div>
+
+## Languages and Tools:
+[![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariacpeixoto&layout=compact&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
 
 ### Contact me:
 <div>
