@@ -29,12 +29,23 @@ Atualmento trabalho na área e realizo muitos projetos nas linguagens especifica
 [![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariacpeixoto&layout=compact&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
 
+<h2>🧑 Visitantes </h2>
+ 
+ <img src="https://profile-counter.glitch.me/catmiih/count.svg" />
+<hr>
+
 ### Contact me:
-<div>
-  <a href="https://www.linkedin.com/in/mariacpeixoto/" target="_blank">
-    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" align="center" width="35" heigth="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="mailto:mariacpeixoto18@gmail.com" target="_blank">
-    <img src="https://marcas-logos.net/wp-content/uploads/2020/01/Gmail-Logo-1.png" align="center" width="35" heigth="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-</div>
+
+<p align="left">
+ <a href="https://github.com/mariacpeixoto" target="_blank" alt="Github">
+    <img src="https://img.shields.io/badge/-Github-242424?style=for-the-badge&logo=Github&logoColor=white">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/mariacpeixoto/" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mariacpeixoto18@gmail.com" target="_blank" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+</p>
