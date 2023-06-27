@@ -1,10 +1,11 @@
-<h1 align="center">Hello, Welcome! I'm Maria Peixoto!!</h1>
+<h3>Desenvolvedora FullStack</h3>
 
-:computer: I'm a Analist Systems Developer Student.
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning a bit of everything about Systems Development.
+<hr>
+  Olá! Eu sou a Maria Eduarda, tenho 18 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas na Fatec Zona Leste. Possuo curso técnico em Desenvolvimento de Sistemas pela Etec Zona Leste e outros vários cursos com certificados na área de tecnologia.<br>
+  Amo programar e dou sempre o máximo de mim para entregar o melhor trabalho possível.
+  Me defino como uma pessoa criativa, organizada e responsável, que sempre está em busca de desafios e aprimorando os conhecimentos que já possuo.<br/><br/>
+Atualmento trabalho na área e realizo muitos projetos nas linguagens especificadas abaixo, e alguns projetinhos que eu fiz por fora estão bem aqui! Sinta-se à vontade para explorar, espero que goste!
+</p>
 
   ## Languages and Tools:
 [![Maria Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacpeixoto&theme=react&locale=en&border_radius=5&hide_border=true)](https://github.com/mariacpeixoto/github-readme-stats)
@@ -23,6 +24,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://img.freepik.com/icones-gratis/dactilografado_318-698173.jpg" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>&nbsp;&nbsp;&nbsp;
+  <img width="35" heigth="35" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/>&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Contact me:
