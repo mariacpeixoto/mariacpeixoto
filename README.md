@@ -23,8 +23,8 @@ Sinta-se à vontade para explorar, espero que goste!
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/php/logo-php-1024.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
-  <img src="https://logodix.com/logo/840687.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.freepik.com/icones-gratis/dactilografado_318-698173.jpg" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
