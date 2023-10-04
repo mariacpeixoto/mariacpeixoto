@@ -14,7 +14,6 @@ Sinta-se à vontade para explorar, espero que goste!
 <div>
 <a href="https://github.com/mariacpeixoto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacpeixoto&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacpeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Meus Conhecimentos:
@@ -32,6 +31,7 @@ Sinta-se à vontade para explorar, espero que goste!
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>&nbsp;&nbsp;&nbsp;
+  <img width="35" heigth="35" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/29/Rlogical-Blog-Images-thumbnail.png"/>&nbsp;&nbsp;&nbsp;
 </div>
 
 <h2>Visitantes:</h2>
