@@ -1,7 +1,7 @@
-<h3 align="center">💻 Desenvolvedora FullStack</h3>
+<h3 align="center">💻 Desenvolvedora de Software</h3>
 
 <hr>
-  Olá! Eu sou a Maria Eduarda, tenho 18 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas na Fatec Zona Leste.<br>
+  Olá! Eu sou a Maria Eduarda, tenho 19 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas na Fatec Zona Leste.<br>
   Possuo curso técnico em Desenvolvimento de Sistemas pela Etec Zona Leste e vários outros cursos com certificados na área de tecnologia.<br>
   Amo programar e dou sempre o máximo de mim para entregar o melhor trabalho possível.
   <br>
