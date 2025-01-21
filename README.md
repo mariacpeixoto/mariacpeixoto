@@ -1,11 +1,11 @@
 <h3 align="center">💻 Desenvolvedora de Software</h3>
 
 <hr>
-  Olá! Eu sou a Maria Eduarda, tenho 19 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas na Fatec Zona Leste.<br>
+  Olá! Eu sou a Maria Eduarda, tenho 19 anos, graduada em Análise e desenvolvimento de Sistemas pela Fatec Zona Leste.<br>
   Possuo curso técnico em Desenvolvimento de Sistemas pela Etec Zona Leste e vários outros cursos com certificados na área de tecnologia.<br>
-  Amo programar e dou sempre o máximo de mim para entregar o melhor trabalho possível.
+  Amo programar e dou sempre o meu máximo para entregar o melhor trabalho possível.
   <br>
-  Me defino como uma pessoa criativa, organizada e responsável, que sempre está em busca de desafios e aprimorando os conhecimentos que já possuo.<br/><br/>
+  Me defino como uma pessoa criativa, organizada e responsável, que sempre está em busca de desafios e aprimorando conhecimentos que já possuo.<br/><br/>
 Atualmente trabalho na área e realizo muitos projetos nas linguagens especificadas abaixo, e alguns projetinhos testes que eu fiz por fora estão bem aqui!<br><br>
 Sinta-se à vontade para explorar, espero que goste!
 </p>
