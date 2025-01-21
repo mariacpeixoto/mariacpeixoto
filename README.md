@@ -18,7 +18,7 @@ Sinta-se à vontade para explorar, espero que goste!
 
 ### Meus Conhecimentos:
 <div>
-  <img name="HTML5" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img src="https://logospng.org/download/php/logo-php-1024.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
