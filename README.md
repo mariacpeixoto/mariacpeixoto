@@ -32,6 +32,7 @@ Sinta-se à vontade para explorar, espero que goste!
   <img width="35" heigth="35" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/29/Rlogical-Blog-Images-thumbnail.png"/>&nbsp;&nbsp;&nbsp;
+  <img width="35" heigth="35" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/29/Rlogical-Blog-Images-thumbnail.png"/>&nbsp;&nbsp;&nbsp;
 </div>
 
 <h2>Visitantes:</h2>
