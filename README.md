@@ -29,6 +29,7 @@ Sinta-se à vontade para explorar, espero que goste!
   <img width="35" heigth="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>&nbsp;&nbsp;&nbsp;
+  <img width="35" heigth="35" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>&nbsp;&nbsp;&nbsp;
   <img width="35" heigth="35" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/29/Rlogical-Blog-Images-thumbnail.png"/>&nbsp;&nbsp;&nbsp;
